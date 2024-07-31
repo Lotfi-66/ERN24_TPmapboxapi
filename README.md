@@ -1,7 +1,11 @@
-# Vite : 
-`npx vite` 
+# Vite :
+``` 
+npx vite
+``` 
 
-`npm run dev`
+```
+npm run dev
+```
 
 # Boostrap : 
 `npm i bootstrap`
