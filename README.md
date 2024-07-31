@@ -16,7 +16,7 @@ npm i bootstrap
 ```
 npm i bootstrap-icons
 ```
-# Creer un nouveau projet vite : 
+# Si vous voulez creer un nouveau projet vite : 
 ```
 npm create vite@latest
 ```
