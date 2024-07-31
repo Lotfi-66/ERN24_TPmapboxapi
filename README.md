@@ -8,7 +8,15 @@ npm run dev
 ```
 
 # Boostrap : 
-`npm i bootstrap`
+```
+npm i bootstrap
+```
 
-# Avoir acces a la librairie bootstrap 
-`npm i bootstrap-icons` (pour crée le repo vite : npm create vite@latest)
+# Avoir acces a la librairie bootstrap-icons :
+```
+npm i bootstrap-icons
+```
+# Creer un nouveau projet vite : 
+```
+npm create vite@latest
+```
